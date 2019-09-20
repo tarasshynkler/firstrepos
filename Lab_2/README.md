@@ -13,3 +13,5 @@
 * Допис до кінця файлу '>>'
 
 ![Screenshot](./screenshots/scren3.png)
+##### 10. Заповнив makefile командами
+![Screenshot](./screenshots/scren4.png)
