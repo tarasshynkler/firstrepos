@@ -6,3 +6,5 @@
 ##### 6. Всі тести пройдено
 ##### 7. Написав функію яка перевіряє AM/PM
 ![Screenshot](./screenshots/scren1.png)
+##### 8. Написав тест правильності виконання функції перевірки AM/PM
+![Screenshot](./screenshots/scren2.png)

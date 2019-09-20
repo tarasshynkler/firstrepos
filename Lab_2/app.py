@@ -34,17 +34,15 @@ def main(url=''):
 
 def home_work(t):
     # Ваш захист
-    a = "="*40
-
     if "AM" in t:
-        print(a + "\nGM")
+        print("GoodMorning")
         return (0)
     elif "PM" in t:
-        print(a + "\nGA")
+        print("GoodAfternoon")
         return (0)
     else:
         print("Error")
-        return 1;
+        return (1);
     pass
 
 

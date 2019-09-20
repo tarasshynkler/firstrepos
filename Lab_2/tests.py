@@ -1,5 +1,5 @@
 import unittest
-from app import main
+from app import main, home_work
 
 
 class TestClass(unittest.TestCase):
@@ -7,7 +7,9 @@ class TestClass(unittest.TestCase):
         # Дана функція налаштовує початкові агрументи визначені лише для класу
         self.date_url = 'http://date.jsontest.com/'
         self.ip_url = 'http://ip.jsontest.com/'
-
+        self.hourAM = 'Time is AM'
+        self.hourPM = 'Time is PM'
+        self.hourErr = 'Time error'
     def test_date_work_successfully(self):
         # Перевіряєм чи функція відправювала до кінця і повернулі True
         self.assertTrue(main(self.date_url))
@@ -21,6 +23,11 @@ class TestClass(unittest.TestCase):
         with self.assertRaises(Exception):
             main(self.ip_url)
 
-    def test_home_work(self):
-        # Ваш захист
-        self.assertTrue(True)
+    def test_home_workAM(self):
+        self.assertTrue(home_work(self.hourAM) == 0)
+
+    def test_home_workPM(self):
+        self.assertTrue(home_work(self.hourPM) == 0)
+
+    def test_home_workErr(self):
+        self.assertTrue(home_work(self.hourErr) == 1)
