@@ -23,17 +23,28 @@ def main(url=''):
         d = get_time_if_url_not_work()
     if "time" in d.keys():
         print("Time is: ", d['time'])
+        home_work(d['time'])
     try:
         print("Date is: ", d['date'])
     except KeyError:
         print("No date in response!!!")
         raise KeyError
-
     return True
 
 
-def home_work():
+def home_work(t):
     # Ваш захист
+    a = "="*40
+
+    if "AM" in t:
+        print(a + "\nGM")
+        return (0)
+    elif "PM" in t:
+        print(a + "\nGA")
+        return (0)
+    else:
+        print("Error")
+        return 1;
     pass
 
 
