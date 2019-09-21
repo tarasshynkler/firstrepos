@@ -1,0 +1,16 @@
+============================= test session starts ==============================
+platform linux -- Python 3.7.3, pytest-5.1.2, py-1.8.0, pluggy-0.13.0
+rootdir: /home/test/firstrepos/Lab_2
+collected 6 items
+
+tests.py ......                                                          [100%]
+
+============================== 6 passed in 0.55s ===============================
+========================================
+Результат без параметрів: 
+No URL passed to function
+========================================
+Результат з правильною URL: 
+Time is:  07:26:12 AM
+GoodMorning
+Date is:  09-21-2019
