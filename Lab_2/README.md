@@ -15,3 +15,5 @@
 ![Screenshot](./screenshots/scren3.png)
 ##### 10. Заповнив makefile командами
 ![Screenshot](./screenshots/scren4.png)
+##### 11. Запустив makefile на іншій віртуальній машині, заздалегіть встановивши python, make, pip. Makefile виконався успішно і закомітив файл resultsM.txtу Git 
+![Screenshot](./screenshots/scren5.png)
