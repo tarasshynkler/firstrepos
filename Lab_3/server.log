@@ -1,0 +1,58 @@
+ERROR 2019-10-08 19:38:01,101 root : Інша помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc5d37c4650>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR 2019-10-08 19:39:01,162 root : Інша помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc5d3d90450>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO 2019-10-08 19:40:01,229 root : -----------------------------------------------------------------
+INFO 2019-10-08 19:40:01,229 root : Сервер доступний. Статуст код = 200
+INFO 2019-10-08 19:40:01,229 root : Сервер доступний. Час на сервері: 2019-10-08 16:40:01
+INFO 2019-10-08 19:40:01,230 root : Запитувана сторінка: : /health/
+INFO 2019-10-08 19:40:01,230 root : Інформація про сервер: {'System': 'Linux', 'Release': '5.2.0-kali2-amd64', 'Type': 'x86_64'}
+INFO 2019-10-08 19:40:01,230 root : Інформація про клієнта: python-requests/2.22.0
+INFO 2019-10-08 19:41:01,279 root : -----------------------------------------------------------------
+INFO 2019-10-08 19:41:01,279 root : Сервер доступний. Статуст код = 200
+INFO 2019-10-08 19:41:01,279 root : Сервер доступний. Час на сервері: 2019-10-08 16:41:01
+INFO 2019-10-08 19:41:01,279 root : Запитувана сторінка: : /health/
+INFO 2019-10-08 19:41:01,279 root : Інформація про сервер: {'System': 'Linux', 'Release': '5.2.0-kali2-amd64', 'Type': 'x86_64'}
+INFO 2019-10-08 19:41:01,279 root : Інформація про клієнта: python-requests/2.22.0
+INFO 2019-10-08 19:42:01,337 root : -----------------------------------------------------------------
+INFO 2019-10-08 19:42:01,337 root : Сервер доступний. Статуст код = 200
+INFO 2019-10-08 19:42:01,338 root : Сервер доступний. Час на сервері: 2019-10-08 16:42:01
+INFO 2019-10-08 19:42:01,338 root : Запитувана сторінка: : /health/
+INFO 2019-10-08 19:42:01,338 root : Інформація про сервер: {'System': 'Linux', 'Release': '5.2.0-kali2-amd64', 'Type': 'x86_64'}
+INFO 2019-10-08 19:42:01,338 root : Інформація про клієнта: python-requests/2.22.0
+INFO 2019-10-08 19:43:01,398 root : -----------------------------------------------------------------
+INFO 2019-10-08 19:43:01,398 root : Сервер доступний. Статуст код = 200
+INFO 2019-10-08 19:43:01,398 root : Сервер доступний. Час на сервері: 2019-10-08 16:43:01
+INFO 2019-10-08 19:43:01,398 root : Запитувана сторінка: : /health/
+INFO 2019-10-08 19:43:01,398 root : Інформація про сервер: {'System': 'Linux', 'Release': '5.2.0-kali2-amd64', 'Type': 'x86_64'}
+INFO 2019-10-08 19:43:01,398 root : Інформація про клієнта: python-requests/2.22.0
+INFO 2019-10-08 19:44:01,463 root : -----------------------------------------------------------------
+INFO 2019-10-08 19:44:01,464 root : Сервер доступний. Статуст код = 200
+INFO 2019-10-08 19:44:01,464 root : Сервер доступний. Час на сервері: 2019-10-08 16:44:01
+INFO 2019-10-08 19:44:01,464 root : Запитувана сторінка: : /health/
+INFO 2019-10-08 19:44:01,464 root : Інформація про сервер: {'System': 'Linux', 'Release': '5.2.0-kali2-amd64', 'Type': 'x86_64'}
+INFO 2019-10-08 19:44:01,464 root : Інформація про клієнта: python-requests/2.22.0
+INFO 2019-10-08 19:45:01,530 root : -----------------------------------------------------------------
+INFO 2019-10-08 19:45:01,530 root : Сервер доступний. Статуст код = 200
+INFO 2019-10-08 19:45:01,531 root : Сервер доступний. Час на сервері: 2019-10-08 16:45:01
+INFO 2019-10-08 19:45:01,531 root : Запитувана сторінка: : /health/
+INFO 2019-10-08 19:45:01,531 root : Інформація про сервер: {'System': 'Linux', 'Release': '5.2.0-kali2-amd64', 'Type': 'x86_64'}
+INFO 2019-10-08 19:45:01,531 root : Інформація про клієнта: python-requests/2.22.0
+INFO 2019-10-08 19:46:01,542 root : -----------------------------------------------------------------
+INFO 2019-10-08 19:46:01,542 root : Сервер доступний. Статуст код = 200
+INFO 2019-10-08 19:46:01,542 root : Сервер доступний. Час на сервері: 2019-10-08 16:46:01
+INFO 2019-10-08 19:46:01,542 root : Запитувана сторінка: : /health/
+INFO 2019-10-08 19:46:01,542 root : Інформація про сервер: {'System': 'Linux', 'Release': '5.2.0-kali2-amd64', 'Type': 'x86_64'}
+INFO 2019-10-08 19:46:01,542 root : Інформація про клієнта: python-requests/2.22.0
+INFO 2019-10-08 19:47:01,603 root : -----------------------------------------------------------------
+INFO 2019-10-08 19:47:01,604 root : Сервер доступний. Статуст код = 200
+INFO 2019-10-08 19:47:01,604 root : Сервер доступний. Час на сервері: 2019-10-08 16:47:01
+INFO 2019-10-08 19:47:01,604 root : Запитувана сторінка: : /health/
+INFO 2019-10-08 19:47:01,604 root : Інформація про сервер: {'System': 'Linux', 'Release': '5.2.0-kali2-amd64', 'Type': 'x86_64'}
+INFO 2019-10-08 19:47:01,605 root : Інформація про клієнта: python-requests/2.22.0
+INFO 2019-10-08 19:48:01,667 root : -----------------------------------------------------------------
+INFO 2019-10-08 19:48:01,667 root : Сервер доступний. Статуст код = 200
+INFO 2019-10-08 19:48:01,667 root : Сервер доступний. Час на сервері: 2019-10-08 16:48:01
+INFO 2019-10-08 19:48:01,668 root : Запитувана сторінка: : /health/
+INFO 2019-10-08 19:48:01,668 root : Інформація про сервер: {'System': 'Linux', 'Release': '5.2.0-kali2-amd64', 'Type': 'x86_64'}
+INFO 2019-10-08 19:48:01,668 root : Інформація про клієнта: python-requests/2.22.0
+ERROR 2019-10-08 19:49:01,692 root : Інша помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc5d35fa690>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR 2019-10-08 19:50:01,728 root : Інша помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc5d3dbfa90>: Failed to establish a new connection: [Errno 111] Connection refused'))
