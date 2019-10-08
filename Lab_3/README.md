@@ -2,3 +2,5 @@
 ![Screenshot](./screenshot/screenshot1.png)
 ##### 2. Створив template і виніс всі файли на один рівень
 ![Screenshot](./screenshot/screenshot2.png)
+##### 3. Запустив сервер і добавив файл db.sqlite3 в .gitignore
+![Screenshot](./screenshot/screenshot3.png)
