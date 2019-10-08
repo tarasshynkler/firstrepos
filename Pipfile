@@ -10,6 +10,7 @@ requests = "*"
 ntplib = "*"
 pytest = "*"
 django = "*"
+djan = "*"
 
 [requires]
 python_version = "3.7"

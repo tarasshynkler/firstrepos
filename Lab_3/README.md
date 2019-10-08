@@ -7,3 +7,6 @@
 ##### 4. Створив template додатку
 ##### 5. Створив відповідні файли і папки
 ##### 6. Відредагував файли my_site/settings.py my_site/url.py
+##### 7. Відредагував main/views.py
+##### 8. Відредагував main/urls.py
+![Screenshot](./screenshot/screenshot4.png)![Screenshot](./screenshot/screenshot5.png)
