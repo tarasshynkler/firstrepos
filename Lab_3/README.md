@@ -5,3 +5,4 @@
 ##### 3. Запустив сервер і добавив файл db.sqlite3 в .gitignore
 ![Screenshot](./screenshot/screenshot3.png)
 ##### 4. Створив template додатку
+##### 5. Створив відповідні файли і папки
