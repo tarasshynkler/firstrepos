@@ -6,3 +6,4 @@
 ![Screenshot](./screenshot/screenshot3.png)
 ##### 4. Створив template додатку
 ##### 5. Створив відповідні файли і папки
+##### 6. Відредагував файли my_site/settings.py my_site/url.py
