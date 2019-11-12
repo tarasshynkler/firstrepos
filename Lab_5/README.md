@@ -24,3 +24,4 @@
 ##### 11. Докер створив імеджі з тегами tarasshynkler/firstrepos:compose-tests tarasshynkler/firstrepos:compose-app Я змінив назви заздалегідь 
 ![Screenshot](screenshots/Screenshot7.png) 
 ##### 12. docker-compose працює лише з докером. Якщо потрібно виконати системні команди або щось з системою краще makefile.
+##### 13. docker-compose.yaml в Lab_4
