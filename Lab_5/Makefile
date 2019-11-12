@@ -24,3 +24,6 @@ docker-prune:
 push:
 	@docker push $(REPO):app
 	@docker push $(REPO):tests
+
+deleteimages:
+	@docker image prune -a --force
