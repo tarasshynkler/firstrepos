@@ -22,4 +22,4 @@
 ##### 10. Оновлюємо docker-compose до останньої версіїї і запускаємо. Контейнери запустились, тести пройшли успішно. Заходити потрібно на адресу 0.0.0.0 оскільки ми робили мапінг порта 80:5000
 ![Screenshot](screenshots/Screenshot6.png)
 ##### 11. Докер створив імеджі з тегами tarasshynkler/firstrepos:compose-tests tarasshynkler/firstrepos:compose-app Я змінив назви заздалегідь 
-![Screenshot](screenshots/Screenshot7.png)
+![Screenshot](screenshots/Screenshot7.png) 
