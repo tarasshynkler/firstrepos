@@ -16,3 +16,4 @@
 ![Screenshot](screenshots/Screenshot002.png)
 ![Screenshot](screenshots/Screenshot003.png)
 ##### 6. Чистимо ресурси Docker make docker-prune
+##### 7. Додаємо дериктиву push і команди. Виконуємо
