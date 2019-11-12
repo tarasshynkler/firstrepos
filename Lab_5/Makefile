@@ -1,5 +1,5 @@
 STATES := app tests
-REPO := tarasshynkler/firstrepos:lab5
+REPO := tarasshynkler/firstrepos
 
 .PHONY: $(STATES)
 
