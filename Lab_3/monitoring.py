@@ -35,11 +35,11 @@ def main(url):
             logging.warn("Cторінку не знайдено %s", r.status_code)
         else:
             logging.error("Сервер недоступний!!!")
-
+'''
     while True:
         time.sleep(60)
         cycle();
-
+'''
 
 '''  
     logging.info("Відповідь сервера місти наступні поля:")
